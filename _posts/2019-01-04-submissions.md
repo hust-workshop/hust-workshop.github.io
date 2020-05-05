@@ -17,7 +17,7 @@ Submissions should be a minimum length of 8 pages and no longer than 10
 pages. The page limit includes figures, tables, and your appendices, but 
 does not include references, for which there is no page limit. Papers should 
 be submitted in PDF format. We kindly refer authors to the Springer 
-guidelines below. 
+guidelines below for paper templates.
 
 All submissions should be made electronically through the SC19 <a href="https://submissions.supercomputing.org">Submissions
 website</a>.  Submissions must be double blind, i.e., authors should
