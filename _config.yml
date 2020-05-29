@@ -15,7 +15,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "HUST: International Workshop on HPC User Support Tools"
-keywords:    "HPC, hpc, support, user, build, tools, sc19, hust19, hust, devops, supercomputing"
+keywords:    "HPC, hpc, support, user, build, tools, sc20, hust20, hust, devops, supercomputing"
 description: "HUST: International Workshop on HPC User Support Tools"
 source_link: "https://github.com/hust-workshop/hust-workshop.github.io"
 favicon:     "img/wrench.png"
