@@ -9,7 +9,7 @@ icon-title: true
 
 We invite authors to submit original, high-quality work with
 sufficient background material to be clear to the HPC
-community. 
+community.
 
 ## Format
 
@@ -22,7 +22,7 @@ themselves in the third person, as if they were discussing another
 researcher's work. Furthermore, authors must identify any conflict of
 interest with the PC chair or PC members.
 
-Format details comming soon.
+Format details coming soon.
 
 <div style="text-align:center;">
   <p>
