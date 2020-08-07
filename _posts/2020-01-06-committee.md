@@ -24,16 +24,17 @@ icon-title: true
 
 ## Program Committee
 
-<!-- * Daniel Ahlin, PDC Center for High Performance Computing, Sweden -->
 * David Bernholdt, Oak Ridge National Laboratory, USA
-<!-- * Fabrice Cantos, NIWA, National Institute of Water and Atmospheric Research, New Zealand -->
-<!-- * Eric Engquist, Rice University, USA -->
 * Lev Gorenstein, Purdue University, USA
 * Jane Herriman, Lawrence Livermore National Laboratory, USA
 * Christopher Harris, Pawsey Supercomputing Center, Australia
-<!-- * Mozhgan Kabiri-Chimeh, University of Sheffield, United Kingdom -->
 * Paul Kolano, NASA, USA
 * Kevin Manalo, PACE, Georgia Institute of Technology, USA
 * Robert McLay, TACC, USA 
 * Todd Raeker, University of Michigan, USA
 * Abhinav Thota, Indiana University, USA
+<!-- these 4 have not accepted yet -->
+<!-- * Daniel Ahlin, PDC Center for High Performance Computing, Sweden -->
+<!-- * Fabrice Cantos, NIWA, National Institute of Water and Atmospheric Research, New Zealand -->
+<!-- * Eric Engquist, Rice University, USA -->
+<!-- * Mozhgan Kabiri-Chimeh, University of Sheffield, United Kingdom -->
