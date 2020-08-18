@@ -31,7 +31,7 @@ necessary <a href="https://www.ieee.org/conferences/publishing/templates.html">t
 <div style="text-align:center;">
   <p>
     <span style="font-size:20px;">
-      <a href="https://submissions.supercomputing.orgt">
+      <a href="https://submissions.supercomputing.org">
         <i class="fa fa-sign-in">&nbsp;<font size="5">Click here to submit.</font></i>
       </a>
     </span>
