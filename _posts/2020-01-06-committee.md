@@ -11,7 +11,7 @@ icon-title: true
 
 * [Chris Bording](https://www.uwa.edu.au), The University of Western Australia, Australia
 * [Elsa Gonsiorowski](https://computation.llnl.gov/about/our-people/highlights/elsa-gonsiorowski), Lawrence Livermore National Laboratory, USA
-* [Karen Tomko](https://www.osc.edu/staff/karen-tomko), Ohio Supercomputing Center, USA
+* [Karen Tomko](https://www.osc.edu/staff/karen-tomko), Ohio Supercomputer Center, USA
 
 ## General Chair
 
@@ -20,7 +20,7 @@ icon-title: true
 ## Program Committee Chairs
 
 * [Elsa Gonsiorowski](https://computation.llnl.gov/about/our-people/highlights/elsa-gonsiorowski), Lawrence Livermore National Laboratory, USA
-* [Karen Tomko](https://www.osc.edu/staff/karen-tomko), Ohio Supercomputing Center, USA
+* [Karen Tomko](https://www.osc.edu/staff/karen-tomko), Ohio Supercomputer Center, USA
 
 ## Program Committee
 
