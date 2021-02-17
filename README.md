@@ -49,7 +49,7 @@ display: false
 ### Icons
 
 The icons included between each section come from [font awesome](https://fontawesome.com).
-We are using version 4.2.0, but that could easily be changed by updating the [version downloaded by the layout](https://github.com/hust-workshop/hust-workshop.github.io/blob/f3467c98171d8e8e4277f7f63fc000bb5ed4cebc/_layouts/default.html#L11).
+We are using [version 4.2.0](https://fontawesome.com/v4.7.0/cheatsheet/), but that could easily be changed by updating the [version downloaded by the layout](https://github.com/hust-workshop/hust-workshop.github.io/blob/f3467c98171d8e8e4277f7f63fc000bb5ed4cebc/_layouts/default.html#L11).
 
 
 ## Theme Source
