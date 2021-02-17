@@ -3,7 +3,7 @@ title: "Community"
 bg: violet
 color: white
 style: center
-fa-icon: fa-smile-o
+fa-icon: smile-o
 ---
 
 ## Join us on [Slack](https://join.slack.com/t/hpcusersupporttools/shared_invite/zt-izzppzj7-KimN1u9oLCGaYE1TN1eeDg)
