@@ -1,7 +1,7 @@
 ---
 title: "Community"
-bg: violet
-color: white
+bg: #b5c199
+color: #2e3448
 style: center
 fa-icon: smile-o
 ---
