@@ -33,7 +33,7 @@ icon-title: true
 * Kevin Manalo, PACE, Georgia Institute of Technology, USA
 * Robert McLay, TACC, USA 
 * Todd Raeker, University of Michigan, USA
-<!-- * Abhinav Thota, Indiana University, USA -->
+* Abhinav Thota, Indiana University, USA
 <!-- these 3 have not accepted yet -->
 <!-- * Daniel Ahlin, PDC Center for High Performance Computing, Sweden -->
 <!-- * Fabrice Cantos, NIWA, National Institute of Water and Atmospheric Research, New Zealand -->
