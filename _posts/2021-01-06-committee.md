@@ -26,7 +26,7 @@ icon-title: true
 
 * David Bernholdt, Oak Ridge National Laboratory, USA
 * Lev Gorenstein, Purdue University, USA
-<!-- * Jane Herriman, Lawrence Livermore National Laboratory, USA -->
+* Jane Herriman, Lawrence Livermore National Laboratory, USA
 * Christopher Harris, Pawsey Supercomputing Center, Australia
 * Mozhgan Kabiri-Chimeh, NVIDIA, United Kingdom
 * Paul Kolano, NASA, USA
