@@ -27,6 +27,9 @@ and no longer than 10 pages. The page limit includes figures, tables, and your
 appendices, but does not include references, for which there is no page limit. 
 Papers should be submitted in PDF format. We kindly refer authors to the 
 necessary <a href="https://www.ieee.org/conferences/publishing/templates.html">templates. 
+  
+New: In addition to full papers, we are accepting 2-page abstracts for short presentations 
+at HUST’21. Please use the same submission format and process as for full papers.
 
 <div style="text-align:center;">
   <p>
