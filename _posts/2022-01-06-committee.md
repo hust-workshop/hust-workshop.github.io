@@ -25,6 +25,7 @@ icon-title: true
 ## Program Committee
 
 * David Bernholdt, Oak Ridge National Laboratory, USA
+* Susan Chacko, National Institutes of Health, USA
 * Lev Gorenstein, Purdue University, USA
 * Jane Herriman, Lawrence Livermore National Laboratory, USA
 * Christopher Harris, Pawsey Supercomputing Center, Australia
