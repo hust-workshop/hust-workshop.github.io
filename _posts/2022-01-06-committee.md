@@ -29,7 +29,7 @@ icon-title: true
 * Lev Gorenstein, Purdue University, USA
 * Jane Herriman, Lawrence Livermore National Laboratory, USA
 * Christopher Harris, Pawsey Supercomputing Center, Australia
-* Vasileios Karakasis, Swiss National Supercomputing Centre, Switzerland
+* Vasileios Karakasis, NVIDIA, Switzerland
 * Paul Kolano, NASA, USA
 * Robert McLay, TACC, USA
 * Todd Raeker, University of Michigan, USA
