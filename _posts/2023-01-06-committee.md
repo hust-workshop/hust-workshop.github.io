@@ -12,18 +12,14 @@ icon-title: true
 * [Chris Bording](https://www.uwa.edu.au), The University of Western Australia, Australia
 * [Elsa Gonsiorowski](https://computation.llnl.gov/about/our-people/highlights/elsa-gonsiorowski), Lawrence Livermore National Laboratory, USA
 * [Karen Tomko](https://www.osc.edu/staff/karen-tomko), Ohio Supercomputer Center, USA
-* Lev Gorenstein, Purdue University, USA
+* [Lev Gorenstein](https://www.rcac.purdue.edu/about/staff/lev), Purdue University, USA
 
 ## Program Committee
 
-* David E. Bernholdt, Oak Ridge National Laboratory, USA
-* Susan Chacko, National Institutes of Health, USA
-* Jane Herriman, Lawrence Livermore National Laboratory, USA
-* Christopher Harris, Pawsey Supercomputing Center, Australia
+* David E. Bernholdt, Oak Ridge National Laboratory, USA <!-- * Susan Chacko, National Institutes of Health, USA --> 
+* Christopher Harris, Pawsey Supercomputing Center, Australia <!-- * Jane Herriman, Lawrence Livermore National Laboratory, USA -->
 * Vasileios Karakasis, NVIDIA, Switzerland
-* Paul Kolano, NASA, USA
-* Robert McLay, TACC, USA
-* Todd Raeker, University of Michigan, USA
+* Paul Kolano, NASA, USA <!-- * Robert McLay, TACC, USA --> <!-- * Todd Raeker, University of Michigan, USA -->
 * Abhinav Thota, Indiana University, USA
 
 <!-- <\!-- Past committee members -\-> -->
