@@ -17,9 +17,11 @@ icon-title: true
 ## Program Committee
 
 * David E. Bernholdt, Oak Ridge National Laboratory, USA <!-- * Susan Chacko, National Institutes of Health, USA --> 
-* Christopher Harris, Pawsey Supercomputing Center, Australia <!-- * Jane Herriman, Lawrence Livermore National Laboratory, USA -->
+* Christopher Harris, Pawsey Supercomputing Center, Australia
+* Jane Herriman, Lawrence Livermore National Laboratory, USA
 * Vasileios Karakasis, NVIDIA, Switzerland
-* Paul Kolano, NASA, USA <!-- * Robert McLay, TACC, USA --> <!-- * Todd Raeker, University of Michigan, USA -->
+* Paul Kolano, NASA, USA
+* Robert McLay, TACC, USA <!-- * Todd Raeker, University of Michigan, USA -->
 * Abhinav Thota, Indiana University, USA
 
 <!-- <\!-- Past committee members -\-> -->
