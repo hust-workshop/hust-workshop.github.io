@@ -21,7 +21,8 @@ icon-title: true
 * Jane Herriman, Lawrence Livermore National Laboratory, USA
 * Vasileios Karakasis, NVIDIA, Switzerland
 * Paul Kolano, NASA, USA
-* Robert McLay, TACC, USA <!-- * Todd Raeker, University of Michigan, USA -->
+* Robert McLay, TACC, USA
+* Todd Raeker, University of Michigan, USA
 * Abhinav Thota, Indiana University, USA
 
 <!-- <\!-- Past committee members -\-> -->
