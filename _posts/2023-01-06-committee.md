@@ -24,6 +24,7 @@ icon-title: true
 * Robert McLay, TACC, USA
 * Todd Raeker, University of Michigan, USA
 * Abhinav Thota, Indiana University, USA
+* Alex Younts, Guardant Health, USA
 
 <!-- <\!-- Past committee members -\-> -->
 <!-- * Mozhgan Kabiri-Chimeh, NVIDIA, United Kingdom -->
