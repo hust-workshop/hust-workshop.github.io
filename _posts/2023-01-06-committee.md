@@ -22,6 +22,7 @@ icon-title: true
 * Guangzhen Jin, Purdue University, USA
 * Vasileios Karakasis, NVIDIA, Switzerland
 * Paul Kolano, NASA, USA
+* Geoffrey Lentner, Purdue University, USA
 * Robert McLay, TACC, USA
 * Todd Raeker, University of Michigan, USA
 * Nannan Shan, Purdue University, USA
