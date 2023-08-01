@@ -19,10 +19,12 @@ icon-title: true
 * David E. Bernholdt, Oak Ridge National Laboratory, USA <!-- * Susan Chacko, National Institutes of Health, USA --> 
 * Christopher Harris, Pawsey Supercomputing Center, Australia
 * Jane Herriman, Lawrence Livermore National Laboratory, USA
+* Guangzhen Jin, Purdue University, USA
 * Vasileios Karakasis, NVIDIA, Switzerland
 * Paul Kolano, NASA, USA
 * Robert McLay, TACC, USA
 * Todd Raeker, University of Michigan, USA
+* Nannan Shan, Purdue University, USA
 * Abhinav Thota, Indiana University, USA
 * Alex Younts, Guardant Health, USA
 
