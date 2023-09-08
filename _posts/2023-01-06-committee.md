@@ -12,7 +12,7 @@ icon-title: true
 * [Chris Bording](https://www.uwa.edu.au), The University of Western Australia, Australia
 * [Elsa Gonsiorowski](https://computation.llnl.gov/about/our-people/highlights/elsa-gonsiorowski), Lawrence Livermore National Laboratory, USA
 * [Karen Tomko](https://www.osc.edu/staff/karen-tomko), Ohio Supercomputer Center, USA
-* [Lev Gorenstein](https://www.rcac.purdue.edu/about/staff/lev), Purdue University, USA
+* [Lev Gorenstein](https://globus.org), Globus // University of Chicago, USA
 
 ## Program Committee
 
