@@ -12,7 +12,7 @@ We invite authors to submit original, high-quality work with sufficient backgrou
 ## Format
 
 All submissions should be made electronically through the SC24 <a href="https://submissions.supercomputing.org">Submissions website</a>.
-Papers should be submitted as PDF file using the **IEEE prceedings template**.
+Papers should be submitted as PDF file using the **IEEE proceedings template**.
 We kindly refer authors to the necessary [templates](https://www.ieee.org/conferences/publishing/templates.html).
 
 Submissions must be double blind, i.e., authors should remove their names, institutions or hints found in references to earlier work.
