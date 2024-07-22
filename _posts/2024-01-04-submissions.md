@@ -11,16 +11,6 @@ We invite authors to submit original, high-quality work with sufficient backgrou
 
 ## Format
 
-Submission
-
-Paper Format
-
-Submissions are limited to 10 two-column pages (U.S. letter – 8.5″ x 11″), excluding the bibliography, using the IEEE proceedings template. The IEEE conference proceeding templates for LaTeX and MS Word provided by IEEE eXpress Conference Publishing are available for download. See the templates here.
-AD and AE appendices do not count against the 10 pages.
-Authors of accepted papers may provide supplemental material with their final version of the paper (e.g., additional proofs, videos, or images).
-
-
-
 All submissions should be made electronically through the SC24 <a href="https://submissions.supercomputing.org">Submissions website</a>.
 Papers should be submitted as PDF file using the **IEEE prceedings template**.
 We kindly refer authors to the necessary [templates](https://www.ieee.org/conferences/publishing/templates.html).
