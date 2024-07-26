@@ -21,7 +21,7 @@ icon-title: true
 * Jane Herriman, Lawrence Livermore National Laboratory, USA
 <!-- * Guangzhen Jin, Purdue University, USA -->
 <!-- * Vasileios Karakasis, NVIDIA, Switzerland -->
-<!-- * Paul Kolano, NASA, USA -->
+* Paul Kolano, NASA, USA
 <!-- * Geoffrey Lentner, Purdue University, USA -->
 * Todd Raeker, University of Michigan, USA
 <!-- * Nannan Shan, Purdue University, USA -->
