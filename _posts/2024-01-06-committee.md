@@ -19,7 +19,7 @@ icon-title: true
 <!-- * Susan Chacko, National Institutes of Health, USA -->
 <!-- * Christopher Harris, Pawsey Supercomputing Center, Australia -->
 * Jane Herriman, Lawrence Livermore National Laboratory, USA
-<!-- * Guangzhen Jin, Purdue University, USA -->
+* Guangzhen Jin, Purdue University, USA
 <!-- * Vasileios Karakasis, NVIDIA, Switzerland -->
 * Paul Kolano, NASA, USA
 <!-- * Geoffrey Lentner, Purdue University, USA -->
