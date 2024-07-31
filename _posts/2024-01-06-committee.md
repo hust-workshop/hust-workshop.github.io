@@ -23,7 +23,7 @@ icon-title: true
 * Paul Kolano, NASA, USA
 * Geoffrey Lentner, Purdue University, USA
 * Todd Raeker, University of Michigan, USA
-<!-- * Nannan Shan, Purdue University, USA -->
+* Nannan Shan, Purdue University, USA
 * Abhinav Thota, Indiana University, USA
 * Alex Younts, Purdue University, USA
 
