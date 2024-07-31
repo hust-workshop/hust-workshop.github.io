@@ -21,11 +21,11 @@ icon-title: true
 * Guangzhen Jin, Purdue University, USA
 <!-- * Vasileios Karakasis, NVIDIA, Switzerland -->
 * Paul Kolano, NASA, USA
-<!-- * Geoffrey Lentner, Purdue University, USA -->
+* Geoffrey Lentner, Purdue University, USA
 * Todd Raeker, University of Michigan, USA
 <!-- * Nannan Shan, Purdue University, USA -->
 * Abhinav Thota, Indiana University, USA
-* Alex Younts, Guardant Health, USA
+* Alex Younts, Purdue University, USA
 
 <!-- Past committee members -->
 <!-- * Robert McLay, TACC, USA -->
