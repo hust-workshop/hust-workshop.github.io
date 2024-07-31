@@ -15,8 +15,7 @@ icon-title: true
 
 ## Program Committee
 
-<!-- * David E. Bernholdt, Oak Ridge National Laboratory, USA -->
-<!-- * Susan Chacko, National Institutes of Health, USA -->
+* David E. Bernholdt, Oak Ridge National Laboratory, USA
 <!-- * Christopher Harris, Pawsey Supercomputing Center, Australia -->
 * Jane Herriman, Lawrence Livermore National Laboratory, USA
 * Guangzhen Jin, Purdue University, USA
@@ -30,6 +29,7 @@ icon-title: true
 
 <!-- Past committee members -->
 <!-- * Robert McLay, TACC, USA -->
+<!-- * Susan Chacko, National Institutes of Health, USA -->
 <!-- * Mozhgan Kabiri-Chimeh, NVIDIA, United Kingdom -->
 <!-- * Kevin Manalo, PACE, Georgia Institute of Technology, USA -->
 <!-- * Daniel Ahlin, PDC Center for High Performance Computing, Sweden -->
