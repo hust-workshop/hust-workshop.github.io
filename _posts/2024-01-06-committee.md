@@ -19,7 +19,7 @@ icon-title: true
 <!-- * Christopher Harris, Pawsey Supercomputing Center, Australia -->
 * Jane Herriman, Lawrence Livermore National Laboratory, USA
 * Guangzhen Jin, Purdue University, USA
-<!-- * Vasileios Karakasis, NVIDIA, Switzerland -->
+* Vasileios Karakasis, NVIDIA, Switzerland
 * Paul Kolano, NASA, USA
 * Geoffrey Lentner, Purdue University, USA
 * Todd Raeker, University of Michigan, USA
