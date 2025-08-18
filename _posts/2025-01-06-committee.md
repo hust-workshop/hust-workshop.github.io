@@ -17,7 +17,7 @@ icon-title: true
 
 ## Program Committee
 
-* Francesco Dongiovanni, LuxProvide, Luxembourg
+* Francesco Bongiovanni, LuxProvide, Luxembourg
 * Brad Crawford, Georgia Institue of Technology, USA
 * Max Hawkins, Georgia Institue of Technology, USA
 * Guangzhen Jin, Purdue University, USA
@@ -27,5 +27,5 @@ icon-title: true
 * Deepa Phanish, Georgia Institue of Techonolgy, USA
 * William Powell, Georgia Institue of Techonolgy, USA
 * Todd Raeker, University of Michigan, USA
-* Gaurav Saxena, Barcelon Supercomputing Center, Spain
+* Gaurav Saxena, Barcelona Supercomputing Center, Spain
 * Nannan Shan, Purdue University, USA
