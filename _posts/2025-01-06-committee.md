@@ -22,7 +22,7 @@ icon-title: true
 * Max Hawkins, Georgia Institue of Technology, USA
 * Guangzhen Jin, Purdue University, USA
 * Vasileios Karakasis, NVIDIA, Switzerland
-* Paul Kolano, NASA, USA
+* Paul Kolano, Tesla, USA
 * Geoffrey Lentner, Purdue University, USA
 * Deepa Phanish, Georgia Institue of Techonolgy, USA
 * William Powell, Georgia Institue of Techonolgy, USA
