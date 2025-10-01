@@ -18,14 +18,14 @@ icon-title: true
 ## Program Committee
 
 * Francesco Bongiovanni, LuxProvide, Luxembourg
-* Brad Crawford, Georgia Institue of Technology, USA
-* Max Hawkins, Georgia Institue of Technology, USA
+* Brad Crawford, Georgia Institute of Technology, USA
+* Max Hawkins, Georgia Institute of Technology, USA
 * Guangzhen Jin, Purdue University, USA
 * Vasileios Karakasis, NVIDIA, Switzerland
 * Paul Kolano, Tesla, USA
 * Geoffrey Lentner, Purdue University, USA
-* Deepa Phanish, Georgia Institute of Techonology, USA
-* William Powell, Georgia Institute of Techonology, USA
+* Deepa Phanish, Georgia Institute of Technology, USA
+* William Powell, Georgia Institute of Technology, USA
 * Todd Raeker, University of Michigan, USA
 * Gaurav Saxena, Barcelona Supercomputing Center, Spain
 * Nannan Shan, Purdue University, USA
