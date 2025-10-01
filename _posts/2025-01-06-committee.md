@@ -24,8 +24,8 @@ icon-title: true
 * Vasileios Karakasis, NVIDIA, Switzerland
 * Paul Kolano, Tesla, USA
 * Geoffrey Lentner, Purdue University, USA
-* Deepa Phanish, Georgia Institue of Techonolgy, USA
-* William Powell, Georgia Institue of Techonolgy, USA
+* Deepa Phanish, Georgia Institute of Techonology, USA
+* William Powell, Georgia Institute of Techonology, USA
 * Todd Raeker, University of Michigan, USA
 * Gaurav Saxena, Barcelona Supercomputing Center, Spain
 * Nannan Shan, Purdue University, USA
