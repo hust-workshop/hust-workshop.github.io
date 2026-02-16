@@ -8,6 +8,8 @@ fa-icon: smile-o
 
 ## Join us on [Slack](https://join.slack.com/t/hpcusersupporttools/shared_invite/zt-izzppzj7-KimN1u9oLCGaYE1TN1eeDg)
 
+Results of the [HUST Community Survey](https://docs.google.com/spreadsheets/d/1pcxYS3EAxmzlgmzK0G1hzBdo_e36GeJQfG3o7XxTuR0)
+
 <!-- ## View past Community Surveys -->
 
 <!-- - [2022 Survey Results](https://docs.google.com/forms/d/1287m5KKmvZBc04b-vWLWpnkheYXOOPi6NyEGqVl24wQ/viewanalytics) -->
