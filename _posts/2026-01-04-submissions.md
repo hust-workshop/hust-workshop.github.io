@@ -20,7 +20,7 @@ When discussing past work, they need to refer to themselves in the third person,
 Furthermore, authors must identify any conflict of interest with the PC chair or PC members.
 
 We are accepting:
-- Full papers, 6-12 pages including figures, tables, and references.
+- Full papers, 5-12 pages including figures, tables, and references.
   Full papers **will** be included in the published proceedings.
 - Short papers, 2-4 pages including figures, tables, and references
   Short papers will **not** be included in the published proceedings.
@@ -37,4 +37,3 @@ We are accepting:
 </div>
 -->
 
-**Submissions will be opened soon.**
