@@ -25,16 +25,6 @@ We are accepting:
 - Short papers, 2-4 pages including figures, tables, and references
   Short papers will **not** be included in the published proceedings.
 
-<div style="text-align:center;">
-  <p>
-    <span style="font-size:20px;">
-      <a href="https://submissions.supercomputing.org">
-        <i class="fa fa-sign-in">&nbsp;<font size="5">Click here to submit.</font></i>
-      </a>
-    </span>
-  </p>
-</div>
-
 ### Reproducibility at HUST
 
 For the HUST workshop, we adopt the model of the SC26 technical paper program.
@@ -77,4 +67,14 @@ date) to more easily replicate and build upon the results in the paper.
 Therefore, the Artifacts Description appendix can reduce barriers and costs of
 replicating published results. It is an important first step toward full
 scientific reproducibility.
+
+<div style="text-align:center;">
+  <p>
+    <span style="font-size:20px;">
+      <a href="https://submissions.supercomputing.org">
+        <i class="fa fa-sign-in">&nbsp;<font size="5">Click here to submit.</font></i>
+      </a>
+    </span>
+  </p>
+</div>
 
