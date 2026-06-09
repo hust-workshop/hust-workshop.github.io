@@ -25,7 +25,6 @@ We are accepting:
 - Short papers, 2-4 pages including figures, tables, and references
   Short papers will **not** be included in the published proceedings.
 
-<!--
 <div style="text-align:center;">
   <p>
     <span style="font-size:20px;">
@@ -35,8 +34,6 @@ We are accepting:
     </span>
   </p>
 </div>
--->
-
 
 ### Reproducibility at HUST
 
