@@ -17,4 +17,15 @@ icon-title: true
 
 ## Program Committee
 
-* TBA
+* Francesco Bongiovanni, LuxProvide, Luxembourg
+* Brad Crawford, Georgia Institute of Technology, USA
+* Max Hawkins, Georgia Institute of Technology, USA
+* Guangzhen Jin, Purdue University, USA
+* Vasileios Karakasis, NVIDIA, Switzerland
+* Michael Knobloch, Jülich Supercomputing Centre, Germany
+* Paul Kolano, Tesla, USA
+* Geoffrey Lentner, Purdue University, USA
+* Deepa Phanish, Georgia Institute of Technology, USA
+* William Powell, Georgia Institute of Technology, USA
+* Gaurav Saxena, Barcelona Supercomputing Center, Spain
+* Xinyao Yi, University of Virginia, USA
